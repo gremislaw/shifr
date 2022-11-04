@@ -1,2 +1,1 @@
-# kumihimo
-Kumihimo site
+
